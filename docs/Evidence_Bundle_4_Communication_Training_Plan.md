@@ -27,10 +27,10 @@
 
 | Audience | Message | Channel | Owner | Timeline |
 |-----------|-----------|-----------|-----------|-----------|
-| Employees | AUP requirements, MFA, cloud storage restrictions | LMS, Email, All Hands | HR / Security | Weeks 1–3 |
-| IT Staff | SOP compliance, ticketing requirements | Workshops | IT Manager | Weeks 2–4 |
-| Managers | Approval responsibilities | Briefings | HR | Weeks 1–2 |
-| Contractors | AUP adherence | Vendor Portal | Legal | Weeks 3–6 |
+| Employees | AUP requirements, MFA, cloud storage restrictions | LMS, Email, All Hands | HR / Security | Weeks 1-3 |
+| IT Staff | SOP compliance, ticketing requirements | Workshops | IT Manager | Weeks 2-4 |
+| Managers | Approval responsibilities | Briefings | HR | Weeks 1-2 |
+| Contractors | AUP adherence | Vendor Portal | Legal | Weeks 3-6 |
 
 ---
 
