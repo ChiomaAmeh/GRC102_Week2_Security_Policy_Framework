@@ -8,8 +8,8 @@ Executive Direction & Security Intent
 ├── Information Security Policy
 └── Acceptable Use Policy
 
-          │
-          ▼
+        │
+        ▼
 
 [TIER 2]
 STANDARDS
@@ -18,8 +18,8 @@ Mandatory Technical Baselines
 ├── Password Standard
 └── Encryption Standard
 
-          │
-          ▼
+        │
+        ▼
  
 [TIER 3]
 PROCEDURES
