@@ -33,23 +33,23 @@
 Enterprise Information Security Policy
 Acceptable Use Policy
 
-│
-▼
+       │
+       ▼
 
 [TIER 2: STANDARDS]
 Password Complexity Standard
 Full-Disk Encryption Standard
 
-│
-▼
+       │
+       ▼
 
 [TIER 3: PROCEDURES]
 User Access Request Procedure
 MFA Configuration Procedure
 Incident Reporting Procedure
 
-│
-▼
+       │
+       ▼
 
 [TIER 4: GUIDELINES]
 Secure Coding Guideline
