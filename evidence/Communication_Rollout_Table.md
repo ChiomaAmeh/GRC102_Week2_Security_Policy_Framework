@@ -2,10 +2,10 @@
 
 | Audience | Key Message | Channel | Timeline | Success Measure |
 |-----------|-----------|-----------|-----------|-----------|
-| Employees | Acceptable Use Policy requirements | Email, LMS, Intranet | Weeks 1–3 | >98% attestation |
-| IT Staff | Access request procedure compliance | Workshops, ITSM Portal | Weeks 2–4 | 100% ticket compliance |
-| Managers | Access approval responsibilities | Briefings, Memo | Weeks 1–2 | Zero orphan accounts |
-| Contractors | Compliance obligations | Vendor Portal | Weeks 3–6 | 100% attestations |
+| Employees | Acceptable Use Policy requirements | Email, LMS, Intranet | Weeks 1-3 | >98% attestation |
+| IT Staff | Access request procedure compliance | Workshops, ITSM Portal | Weeks 2-4 | 100% ticket compliance |
+| Managers | Access approval responsibilities | Briefings, Memo | Weeks 1-2 | Zero orphan accounts |
+| Contractors | Compliance obligations | Vendor Portal | Weeks 3-6 | 100% attestations |
 
 ## Escalation Process
 
