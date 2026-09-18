@@ -11,8 +11,8 @@
 |--------|--------|
 | Student Name | Chioma Ameh |
 | Programme | GRC Engineering |
-| Course | GRC102 – Information Security Governance |
-| Module | Module 2 – Developing Security Policies and Procedures |
+| Course | GRC102 - Information Security Governance |
+| Module | Module 2 - Developing Security Policies and Procedures |
 | Laboratory | Week 2 Practical Laboratory |
 | Organisation | NexusTech Solutions |
 | Repository Type | Academic Evidence Submission |
