@@ -29,8 +29,8 @@ Operational Execution
 ├── Account Provisioning Procedure
 └── Incident Reporting Procedure
   
-          │
-          ▼
+        │
+        ▼    
 
 [TIER 4]
 GUIDELINES
